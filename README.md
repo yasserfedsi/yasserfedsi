@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Hello, I'm Yasser i'm 15 years old software developer who make cool things using HTML5/CSS/JS<br>Currently I'm working on rtb.io an arcade game using PlayCanvas and JS
+Hello There, It's Yasser i'm 15 years old software developer who make cool things using HTML5/CSS/JS<br>Currently I'm working on rtb.io an arcade game using PlayCanvas and JS
 
 
 ## 🌐 Socials:
