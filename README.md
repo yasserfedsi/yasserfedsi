@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Hello There, It's Yasser i'm 16 years old software developer who make cool things using HTML5/CSS/JS<br>Currently I'm working on <a href="https://rtbio.netlify.app">rtb.io</a> an arcade game using PlayCanvas and JS, Also i'm founder of <a href="https://autosoftstudio.netlify.app">autosoft company</a>
+Hello There, It's Yasser i'm 16 years old software developer who make cool things using JS/Python<br>Currently I'm working on <a href="https://rtbio.netlify.app">rtb.io</a> an arcade game using PlayCanvas and JS, Also i'm founder of <a href="https://autosoftstudio.netlify.app">autosoft company</a>
 
 
 ## 🌐 Socials:
