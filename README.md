@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Hello There, It's Yasser i'm 16 years old software developer who make cool things using JS/Python<br>Currently I'm working on <a href="https://rtbio.netlify.app">rtb.io</a> an arcade game using PlayCanvas and JS, Also i'm founder of <a href="https://autosoftstudio.netlify.app">autosoft company</a>
+Hello There, It's Yasser i'm 16 years old software developer who make cool things using JS/Python<br>Currently I'm working on <a href="https://rtbio.netlify.app">rtb.io</a> an arcade game using PlayCanvas and JS.
 
 
 ## 🌐 Socials:
@@ -29,6 +29,11 @@ Hello There, It's Yasser i'm 16 years old software developer who make cool thing
 # Projects
  - [rtb.io](https://rtbio.netlify.app) | May 2022 - Present
  - [Tyro Bot]() | Since October 2022
+
+# Future projects / goals
+- Start my own company in the tech indestry
+- Traveling to Canada, Qatar and more 
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yasserfds&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
