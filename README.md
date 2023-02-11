@@ -32,8 +32,6 @@ Hello There, It's Yasser i'm 16 years old software developer who make cool thing
 
 # Future projects / goals
 - Start my own company in the tech indestry
-- Traveling to Canada, Qatar and more 
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yasserfds&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
