@@ -41,8 +41,6 @@ Hello There, It's Yasser i'm 16 years old software developer who make cool thing
   <img src="https://skillicons.dev/icons?i=vscode,html,css,js,nodejs,express,git,ts" alt="Technologies and Tools" />
 </div>
 
-#
-
 # Projects
  - [Autosoft](https://autosoftstudio.netlify.app) | March 2020 - Present
  - [RollTheBall](https://rtbio.netlify.app) | May 2022 - Present
