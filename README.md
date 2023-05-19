@@ -38,7 +38,7 @@ Hello There, It's Yasser i'm 16 years old software developer who make cool thing
 ### 🧰 Technologies and Tools
 
 <div>
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,nodejs,websocket,express,git,ts" alt="Technologies and Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,nodejs,express,git,ts" alt="Technologies and Tools" />
 </div>
 
 #
