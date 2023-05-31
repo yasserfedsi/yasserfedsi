@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Hello There, It's Yasser i'm 16 years old software developer who make cool things using JS <br>Latest game <a href="https://rtbio.netlify.app">rtb.io</a>. <br> Currently working on a discord bot.
-
+<p align="center">
+    I am a junior fullstack developer who specializes in creating websites and creating browser games on the side. But also take an interest in mathematics. I like to play chess in my spare time.
+</p>
+<br />
 
 ###  💬 My Socials + Communities
 
@@ -43,12 +45,8 @@ Hello There, It's Yasser i'm 16 years old software developer who make cool thing
 
 # Projects
  - [Autosoft](https://autosoftstudio.netlify.app) | March 2020 - Present
- - [RollTheBall](https://rtbio.netlify.app) | May 2022 - Present
-
-# Future projects / goals
-- Learning typescript perfectly
-- Getting new pc/laptop
-- Start my own company in the tech indestry
+ - [Rawly Bot](https://rawly.netlify.app) | April 2023 - Present
+ - [RollTheBall](https://rtbio.netlify.app) | May 2022 - January 2023
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yasserfds&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
