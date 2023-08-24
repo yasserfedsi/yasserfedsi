@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ### 🧰 Technologies and Tools
 
 <div>
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,python,nodejs,express,ts,git" alt="Technologies and Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,python,nodejs,express,git" alt="Technologies and Tools" />
 </div>
 
 # Projects
