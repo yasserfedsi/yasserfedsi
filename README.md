@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 </div>
 
 # Projects
- - [TresorUni](https://usthb-hub.vercel.app) | September 2024 - Present
+ - [TresorUni](https://beta.tresoruni.tech/) | September 2024 - Present
  - [chase.io](https://chaseio.netlify.app) | May 2022 - Present
 
 # 📊 GitHub Stats:
