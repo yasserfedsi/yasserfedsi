@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 </div>
 
 # Projects
+ - [PrismoBot](https://prismo-bot.vercel.app) | Fabruary 2025 - Present
  - [TresorUni](https://beta.tresoruni.tech/) | September 2024 - Present
  - [chase.io](https://chaseio.netlify.app) | May 2022 - Present
 
