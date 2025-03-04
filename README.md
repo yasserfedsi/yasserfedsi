@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 <p align="center">
-    I am a junior fullstack developer student who specializes in creating websites and creating browser games on the side. But also take an interest in mathematics and python.
+    I am a junior fullstack developer student who specializes in creating websites 
+    <br /> and creating browser games on the side. But also take an interest in mathematics and python.
 </p>
 <br />
 
