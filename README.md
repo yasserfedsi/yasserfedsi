@@ -21,7 +21,7 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Tresor-Uni**
+- 🔭 I’m currently working on **Mindexa**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
