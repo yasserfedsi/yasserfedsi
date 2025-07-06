@@ -13,7 +13,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block"><em>Confusion is part of Programming</em></h2></summary>
+    <summary><h2 style="display: inline-block"><em>"Confusion is part of Programming."</em></h2></summary>
   </ul>
 </div>
 
